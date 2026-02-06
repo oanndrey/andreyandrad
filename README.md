@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Andrey Vieira de Andrade, tenho 18 anos e sou natural do Ceará. Concluí o ensino médio na EEEP Padre João Bosco de Lima, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFAP. Sou apaixonado por tecnologia, busco sempre estar atualizado com novas tecnologias.
+Desenvolvedor FullStack em formação e apaixonado pelo ecossistema JavaScript. Tenho 18 anos, sou do Ceará e trago uma base sólida do curso técnico em Informática (EEEP Padre João Bosco de Lima). Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIFAP e dedico meus estudos a criar soluções modernas e escaláveis usando React, Next.js e Node.js.
 
 <p align="left">
     <a href="https://www.youtube.com/@andreyvieira909">
